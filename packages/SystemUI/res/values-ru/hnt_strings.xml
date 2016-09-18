@@ -19,4 +19,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Recents memory bar -->
     <string name="recents_free_ram">Свободно памяти: %1$d МБ</string>
+
+    <!-- Reboot/Recovery QS Tile -->
+    <string name="quick_settings_reboot_label">Перезагрузка</string>
+    <string name="quick_settings_reboot_recovery_label">В рекавери</string>
 </resources>
